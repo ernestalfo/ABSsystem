@@ -1,0 +1,14 @@
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\bin\Release\SimpleAdmin.exe.config
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\bin\Release\SimpleAdmin.exe
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\bin\Release\SimpleAdmin.pdb
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\bin\Release\MaterialSkin.dll
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.csprojAssemblyReference.cache
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.EditGameFrm.resources
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.MainViewFrm.resources
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.Properties.Resources.resources
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.csproj.GenerateResource.cache
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.csproj.CoreCompileInputs.cache
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.csproj.CopyComplete
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.exe
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.pdb
+D:\MyBowl\Development\Admin\SimpleAdmin\SimpleAdmin\obj\Release\SimpleAdmin.ProgressDialog.resources
